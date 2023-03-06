@@ -113,7 +113,7 @@ public class Manager {
 
     public void getWordLanguage(Locale curLocate, String key) {
         ResourceBundle words
-                = ResourceBundle.getBundle("Language/" + curLocate, curLocate);
+                = ResourceBundle.getBundle("Language" , curLocate);
         String value = words.getString(key);
         System.out.printf(value);
     }
