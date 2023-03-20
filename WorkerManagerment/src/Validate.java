@@ -23,7 +23,7 @@ public class Validate {
         }
     }
 
- 
+        
     public static String checkInputString() {
   
         while (true) {

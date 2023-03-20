@@ -60,7 +60,7 @@ public class Manager {
 	    public void displayPerson(Person[] p) {
 	    	System.out.println("\n");
 			for (int i = 0; i < p.length; i++) {
-				System.out.println(p[i].toString());
+				System.out.println(p[i].toString());	
 			}
 		}
 }
