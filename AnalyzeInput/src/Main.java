@@ -6,4 +6,4 @@ public class Main {
 		mn.display("32hg321sdhkjDFGH!@#$%^22fdsf3fdgdf/");
 
 	}
-}
+}	
